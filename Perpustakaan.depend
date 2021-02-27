@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1614348952 source:c:\users\hp\documents\project\kasir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
+1614351063 source:c:\users\hp\documents\project\perpustakaan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+

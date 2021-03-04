@@ -1,8 +1,10 @@
 
-Judul : 
-Kode : 15
-Tanggal Pinjam : 26-02-2021
+Nama : Ricky
+Judul : Kancel
+Kode : 13
+Tanggal Pinjam : 01-03-2021
 
+Nama : 
 Judul : 
-Kode : 1124
-Tanggal Pinjam : 26-02-2021
+Kode : 
+Tanggal Pinjam : 01-03-2021

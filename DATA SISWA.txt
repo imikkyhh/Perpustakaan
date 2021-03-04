@@ -1,20 +1,11 @@
-NIS : 13321
-Nama : Ikkyh
+
+NIS : 12725
+Nama : Ricky
 Kelas : 12
 Jurusan : TKJ1
-NIS : 345345
-Nama : asdasd
+
+NIS : 123
+Nama : ase
 Kelas : 12
-Jurusan : TKJ2
-NIS : 567567
-Nama : Asuuu
-Kelas : 12
-Jurusan : TKJ3
-NIS : 342523423
-Nama : ASsfasxc
-Kelas : 12
-Jurusan : TKJ1
-NIS : 12343
-Nama : Ikkyhhh
-Kelas : 12
-Jurusan : TKJ1
+Jurusan : tkj1
+
